@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ZK-5615.zul
+
+        Purpose:
+
+        Description:
+
+        History:
+                週二 4月 08 17:33:21 CST 2025, Created by cherrylee
+
+Copyright (C) 2025 Potix Corporation. All Rights Reserved.
+-->
+<zk>
+    <datebox format="long+medium" onCreate="self.value = new Date()" width="330px" onChange="" />
+    <script src="ZK-5615.js"/>
+</zk>
