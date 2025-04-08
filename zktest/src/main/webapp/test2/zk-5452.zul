@@ -1,0 +1,10 @@
+<zk xmlns:h="native">
+    <h:h2>case 1:</h:h2>
+    <progressmeter id="meter" width="100px" visible="false"/>
+    <h:h2>case 2:</h:h2>
+    <button label="show" onClick="box.setVisible(true)"/>
+    <div id="box" visible="false">
+        <progressmeter id="meter2" width="100px"/>
+    </div>
+<!--    <script src="zk-5452.js"/>-->
+</zk>
